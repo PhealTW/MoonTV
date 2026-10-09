@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @typescript-eslint/no-explicit-any */  
 
 import type { Metadata, Viewport } from 'next';
 import { Inter } from 'next/font/google';
